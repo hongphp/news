@@ -1,0 +1,32 @@
+
+.iconbottom {
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	text-align: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	margin: 20rpx auto 10rpx;
+}
+.iconbottom .iconfont {
+	display: inline-block;
+	margin-left: 0rpx;
+	background-color: #00BFFF;
+	font-size: 30rpx;
+}
+.active {
+	margin-top: 190rpx;
+	float: right;
+	color: #666;
+}
+.card {
+	padding: 30rpx;
+}
+.card-img {
+	width: 50%;
+	height: 50%;
+}
+

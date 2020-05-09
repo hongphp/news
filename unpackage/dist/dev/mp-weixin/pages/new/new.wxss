@@ -1,0 +1,8 @@
+
+.car-title-view {
+	padding: 60rpx
+}
+.video {
+	margin-left: 50rpx;
+}
+
